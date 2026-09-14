@@ -1,0 +1,24 @@
+{
+  "fluorescent_hum": {
+    "subtitle": "subtitles.backrooms.fluorescent_hum",
+    "sounds": [
+      {
+        "name": "minecraft:block.beacon.ambient",
+        "type": "event",
+        "volume": 0.6,
+        "pitch": 1.5
+      }
+    ]
+  },
+  "carpet_step": {
+    "subtitle": "subtitles.backrooms.carpet_step",
+    "sounds": [
+      {
+        "name": "minecraft:block.wool.step",
+        "type": "event",
+        "volume": 0.7,
+        "pitch": 0.8
+      }
+    ]
+  }
+}

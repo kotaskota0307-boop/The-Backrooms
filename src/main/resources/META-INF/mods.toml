@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="backrooms"
+version="1.0.0"
+displayName="The Backrooms"
+authors="Backrooms Contributors"
+description='''Explore the endless fluorescent rooms of Level 0. Press C in the Overworld to no-clip inside.'''
+
+[[dependencies.backrooms]]
+modId="forge"
+mandatory=true
+versionRange="[47.2.0,48)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.backrooms]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.20.2)"
+ordering="NONE"
+side="BOTH"

@@ -1,0 +1,14 @@
+{
+  "block.backrooms.yellow_wallpaper": "黄色い壁紙",
+  "block.backrooms.ceiling_tile": "天井タイル",
+  "block.backrooms.moist_carpet": "湿ったカーペット",
+  "block.backrooms.fluorescent_light": "蛍光灯",
+  "item.backrooms.almond_water": "アーモンドウォーター",
+  "itemGroup.backrooms": "バックルーム",
+  "key.backrooms.noclip": "Level 0 にノークリップ",
+  "key.categories.backrooms": "バックルーム",
+  "subtitles.backrooms.fluorescent_hum": "蛍光灯が唸る",
+  "subtitles.backrooms.carpet_step": "湿ったカーペットを踏む",
+  "message.backrooms.level_unavailable": "Level 0 が見つかりません。サーバーのデータパックを確認してください。",
+  "message.backrooms.no_safe_position": "Level 0 に安全な突入地点がありません。"
+}

@@ -1,0 +1,14 @@
+{
+  "block.backrooms.yellow_wallpaper": "Yellow Wallpaper",
+  "block.backrooms.ceiling_tile": "Ceiling Tile",
+  "block.backrooms.moist_carpet": "Moist Carpet",
+  "block.backrooms.fluorescent_light": "Fluorescent Light",
+  "item.backrooms.almond_water": "Almond Water",
+  "itemGroup.backrooms": "The Backrooms",
+  "key.backrooms.noclip": "No-clip into Level 0",
+  "key.categories.backrooms": "The Backrooms",
+  "subtitles.backrooms.fluorescent_hum": "Fluorescent light hums",
+  "subtitles.backrooms.carpet_step": "Damp carpet squishes",
+  "message.backrooms.level_unavailable": "Level 0 is unavailable. Check the server datapacks.",
+  "message.backrooms.no_safe_position": "No safe entry point found in Level 0."
+}
